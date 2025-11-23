@@ -106,7 +106,7 @@ section {
   width: 100%;       /* full width */
   height: 100%;      /* full height */
 
-  background: url("img/ref.jpg") no-repeat center center;
+  background: url("https://raw.githubusercontent.com/sharumathi-07/pareri_handicrafts/main/img/ref.jpg") no-repeat center center;
 
   /* Make image scale properly */
   background-size: cover;
@@ -860,3 +860,4 @@ footer .copyright {
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
   z-index: 9999;
 }
+
